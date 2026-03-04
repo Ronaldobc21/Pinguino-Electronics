@@ -1,13 +1,5 @@
-Pinguino Base 4550
-=====================
+# **Pinguino Base 4550**
 
-Pinguino Base es una alternativa a la placa original del proyecto Pinguino
-esta llama Pinguino-tiny4550, siendo '''Pinguino Base''' una mejora substancial
-en cuanto a nivel electronico y a nivel de diseño. Siendo su objetivo principal
-la capacidad de acoplar ''extensiones'', estas utiles a la hora de realizar
-prototipos rapidos de proyectos.
+**Pinguino Base** is an alternative to the original board of the Pinguino project, known as **Pinguino-tiny4550**. **Pinguino Base** represents a substantial improvement both in terms of electronic design and overall hardware layout. Its main objective is to provide the capability to connect **extensions**, which are very useful when creating rapid prototypes for different projects.
 
-Siendo este diseño muy influenciado en la placa Arduino, pero sin intentar ser
-un clon de este, incluso no espera ser compatible pin a pin, con sus shields,
-sin embargo se inspira en su arquitectura de hardware para el diseño de los
-shields.
+This design is strongly influenced by the **Arduino** board, although it does not attempt to be a clone. It is not intended to be **pin-to-pin compatible** with Arduino shields. However, its hardware architecture is inspired by Arduino, particularly in the way shields and extensions are designed.
